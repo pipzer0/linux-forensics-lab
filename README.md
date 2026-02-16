@@ -1,5 +1,7 @@
 # Linux Forensics & Incident Response Lab
 
+> **Note:** This project is a work in progress. Challenges, lab setup, and documentation may change as the project evolves. Contributions and feedback are welcome!
+
 A hands-on training environment for practicing Linux forensics and IR skills, focused on **low-level filesystem artifacts** rather than log analysis.
 
 ## Quick Start
